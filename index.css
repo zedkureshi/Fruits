@@ -1,0 +1,284 @@
+.container {
+    background-image: url("./img/hero-bg.jpg");
+    height: 600px;
+    padding: 0 190px;
+    padding-top: 50px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+
+.m{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.m h5{
+    letter-spacing: 5px;
+    color: orange;
+}
+
+.m h1{
+    font-size: 50px;
+}
+
+.M{
+    text-align: center;
+}
+
+.container p{
+    color: orange;
+}
+
+.container h1{
+    color: white;
+}
+
+.container button{
+    border-radius: 14px;
+    height: 30px;
+    border: 2px solid orange;
+}
+
+.container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.container ul li {
+    margin: 0 10px;
+}
+
+.container ul li a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: white;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.icons span {
+    margin-left: 20px;
+}
+
+.IMG{
+    height: 200px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.IMG1{
+    display: flex;
+}
+
+.IMG2{
+    display: flex;
+}
+
+.IMG3{
+    display: flex;
+}
+
+.I{
+    height: 100px;
+    width: 100px;
+    border: 4px solid orange;
+    border-style: dotted;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.I1{
+    height: 100px;
+    width: 100px;
+    border: 4px solid orange;
+    border-style: dotted;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.I2{
+    height: 100px;
+    width: 100px;
+    border: 4px solid orange;
+    border-style: dotted;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.products{
+    padding-top: 100px;
+    justify-content: center;
+    text-align: center;
+}
+
+.product{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.Products{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 550px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: orange;
+    border: 4px solid powderblue;
+}
+
+.p1 img{
+    padding-top: 20px;
+    height: 300px;
+    width: 300px;
+}
+
+.Products button{
+    border-radius: 50px;
+    height: 30px;
+    width: 150px;
+    background-color: powderblue;
+}
+
+.p2 img{
+    padding-top: 20px;
+    height: 300px;
+    width: 300px;
+}
+
+.Month button{
+    border-radius: 50px;
+    height: 30px;
+    width: 150px;
+    background-color: orange;
+}
+
+.David{
+    justify-content: center;
+    text-align: center;
+}
+.fruitkha{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    padding-top: 50px;
+}
+.fruitkha button{
+    height: 30px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: orange;
+    color: white;
+    border: 2px solid orange;
+}
+
+.container-fulid{
+    display: flex;
+    padding-bottom: 150px;
+  }
+
+  .tx{
+    width: 600px;
+  }
+
+  .box{
+    display: flex;
+    padding-bottom: 40px;
+    padding-right: 40px;
+  }
+
+ .te{
+  width: 80px;
+  height: 80px;
+  line-height: 30px;
+  border: 3px solid orange;
+  padding: 6px;
+  text-align: center;
+}
+.xyz{
+  color: orange;
+  font-size: 30px !important;
+  font-weight: bold;
+}
+.ab{
+  font-size: 20px !important;
+}
+
+.img-fluid{
+  margin-left: 100px;
+  filter: drop-shadow(5px 5px 10px orange);
+  border-radius: 20px 0 20px 0;
+}
+.xy{
+  margin-left: 200px;
+}
+.x{
+  margin-left: 200px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.y{
+  margin-left: 200px;
+  width: 500px;
+}
+.btn2{
+    height: 30px;
+  margin-left: 10px;
+  color:white;
+  background-color: orange;
+  border-radius: 20px;
+  border: 5px solid orange;
+}
+.r{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 145px;
+
+  }
+  
+  .i{
+    /* display: flex; */
+    position: absolute;
+    top: 27px;
+    left: 99px;
+    font-size: 30px;
+    padding: 10px;
+    border: 10px solid rgb(230, 119, 79);
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+  }
+  
+  .abc{
+    padding-left: 80px;
+  }
+  .abc .a{
+    font-size: xxx-large;
+    font-weight:bold;
+  }
